@@ -34,7 +34,7 @@ urlpatterns = [
     path('api-token-auth/', ObtainAuthToken.as_view()),
     path('search/', SearchAPIView.as_view())
 
-]
+]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 
 
