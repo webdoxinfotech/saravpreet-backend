@@ -135,5 +135,6 @@ MEDIA_URL = '/media/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://jovial-concha-9aeade.netlify.app/'
+    'https://jovial-concha-9aeade.netlify.app/',
+    'https://6526ae9b94c7a370cbb917ca--jovial-concha-9aeade.netlify.app/'
 ]
