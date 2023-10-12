@@ -135,5 +135,7 @@ MEDIA_URL = '/media/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://prismatic-rugelach-387855.netlify.app/'
+    'https://prismatic-rugelach-387855.netlify.app/',
+    'http://saravpreet.tech',
+    'https://saravpreet.tech',
 ]
