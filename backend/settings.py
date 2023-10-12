@@ -137,4 +137,6 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'https://jovial-concha-9aeade.netlify.app/',
     'https://6526ae9b94c7a370cbb917ca--jovial-concha-9aeade.netlify.app/'
+    'https://steady-axolotl-5b4ccd.netlify.app/',
+    'https://steady-axolotl-5b4ccd.netlify.app/frontend'
 ]
